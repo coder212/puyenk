@@ -24,6 +24,7 @@ end
 gem 'jquery-rails'
 group :development, :test do
   gem 'rspec-rails'
+  gem 'spork', '0.8.4'
 end
 group :test do
 
